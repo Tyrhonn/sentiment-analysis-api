@@ -205,3 +205,10 @@ All 7 API tests passed!
 - Designed for English-language sentiment classification.
 - Supports only `POSITIVE` and `NEGATIVE` labels.
 - May misclassify sarcastic or ambiguous text.
+
+---
+
+## 🔗 References
+
+- [DistilBERT SST-2 – Hugging Face](https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english)
+- [FastAPI – Official Documentation](https://fastapi.tiangolo.com/)
